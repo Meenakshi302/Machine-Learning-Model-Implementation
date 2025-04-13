@@ -12,9 +12,9 @@ The model is trained using the Naive Bayes classifier, which is known for its ef
 - Easy to run in the terminal or command prompt
 
 # Technologies Used
-Python 3.x
-Scikit-learn
-Pandas
+- Python 3.x
+- Scikit-learn
+- Pandas
 
 # Objective
 The primary objective of this project is to build a predictive machine learning model that can automatically classify SMS messages as Spam or Not Spam (Ham) using the scikit-learn library in Python.
