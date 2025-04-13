@@ -32,3 +32,6 @@ This Spam Detection model has various real-world applications, including:
 - Marketing Platforms: Ensure compliance by detecting and flagging unsolicited promotional content.
 - Cybersecurity Tools: Help identify potentially harmful messages that contain phishing links or scams.
 
+# Output
+![Image](https://github.com/user-attachments/assets/6d2cd3c1-a501-4b66-b686-265155f4303a)
+
